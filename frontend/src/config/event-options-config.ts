@@ -1,0 +1,17 @@
+export const eventTypes = [
+  "Music",
+  "House Parties",
+  "Sports",
+  "Art",
+  "Theatre/Drama",
+  "Festive",
+  "Culinary",
+  "Movie Days",
+  "Fashion Events",
+  "Video-Game Matches",
+  "Book Discussions",
+  "Dance Events",
+  "Comedy",
+  "Hikking",
+  "Misc Events",
+];
